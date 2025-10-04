@@ -83,7 +83,7 @@ Cold-Licks/
 ## 🚀 Deployment
 
 This project will be deployed on **Vercel** soon.  
-👉 *(Link will be added after deployment)*  
+👉 https://cold-licks.vercel.app 
 
 If you want to run it locally:
 1. Clone this repository  
